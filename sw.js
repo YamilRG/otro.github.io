@@ -9,8 +9,7 @@ const APP_SHELL = [
     'pages/no_response.html',
     'css/style.css', 
     'css/styleHome.css', 
-    'img/7.png', 
-    'img/fondo1.jpg', 
+    'img/7.png',
     'js/app.js'
 ];
 const APP_INMUTABLE = ['https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css',
