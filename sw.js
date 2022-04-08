@@ -10,7 +10,7 @@ const APP_SHELL = [
     'css/style.css', 
     'css/styleHome.css', 
     'img/7.png', 
-    'img/fondo1.jpg', 
+    './img/fondo1.jpg', 
     'js/app.js'
 ];
 const APP_INMUTABLE = ['https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css',
