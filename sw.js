@@ -12,7 +12,7 @@ const APP_SHELL = [
     'img/7.png',
     'img/fondo.jpg',
     'js/app.js',
-    'favicon.ico'
+    './favicon.ico'
 ];
 const APP_INMUTABLE = ['https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css',
     'https://code.jquery.com/jquery-3.6.0.min.js',
